@@ -16,7 +16,7 @@ class CardScreen extends StatelessWidget {
             SizedBox(height: 20),
             CustomCardType2(
                 imageUrl:
-                    'https://fotoarte.com.uy/wp-content/uploads/2019/03/Landscape-fotoarte.jpg'),
+                    'https://capital.es/wp-content/uploads/2022/08/espacio.jpg'),
             SizedBox(height: 20),
             CustomCardType2(
                 imageUrl:
